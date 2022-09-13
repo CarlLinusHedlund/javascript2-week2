@@ -31,6 +31,3 @@ const area = rectangle.map(({base, width})=> {
     return 0,5 * base * width;
 })
 console.log(area);
- 
-
-
